@@ -1,0 +1,129 @@
+.pagina1{
+    background-color: rgb(226, 132, 255)
+}
+
+.titolop1{
+    text-align: center;
+    font-size: 75px;
+    color: rgb(153, 0, 255);
+    padding-top: none;
+    padding-left: 12px;
+    padding-bottom: none;
+    padding-right: 12px;
+}
+
+.tre{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 175px;
+    color: rgb(86, 39, 255);
+}
+
+.b1{
+    text-align: center;
+    font-size: 60px;
+    width: 375px;
+    margin-left: 310px;
+    margin-top: 200px;
+    border-radius: 55px;
+    background-color: rgb(255, 119, 248);
+    border: solid 2px rgb(245, 24, 190);
+    color: rgb(158, 37, 238);
+    height: 110px;
+}
+
+.pagina2{
+    background-color: rgb(226, 132, 255)
+}
+
+.p2{
+    text-align: center;
+    font-size: 75px;
+    color: rgb(153, 0, 255);
+    margin-top:65px;
+    padding-left: 12px;
+    padding-bottom: none;
+    padding-right: 12px;
+}
+
+.si{
+    font-style: italic;
+    text-align:center;
+    font-size: 55px;
+    border-radius: 50px;
+    width: 150px;
+    height: 150px;
+    margin-left: 200px;
+    margin-top: 800px;
+    background-color: rgb(255, 59, 245);
+    color:rgb(63, 33, 236);
+
+}
+
+.no{
+    font-style: italic;
+    text-align:center;
+    font-size: 55px;
+    border-radius: 50px;
+    width: 150px;
+    height: 150px;
+    margin-top: 800px;
+    float: right;
+    margin-right: 200px;
+    background-color: rgb(255, 59, 245);
+    color:rgb(63, 33, 236);
+}
+
+.p3{
+    background-color: rgb(226, 132, 255)
+}
+
+
+.pa3{
+    text-align: center;
+    font-size: 75px;
+    color: rgb(153, 0, 255);
+    margin-top:65px;
+    padding-left: 12px;
+    padding-bottom: none;
+    padding-right: 12px;
+}
+
+.parp3{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 175px;
+    color: rgb(86, 39, 255);
+    padding-right: 100px;
+    padding-left: 100px;
+}
+
+.uop{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 175px;
+    color: rgb(86, 39, 255);
+    padding-right: 100px;
+    padding-left: 100px;
+}
+
+.ioebenny{
+    width: 400px;
+    height: 550px;
+    border-radius: 0 150px 0 150px;
+    margin-left: 50px;
+}
+
+.benny{
+    width: 400px;
+    height: 550px;
+    border-radius: 150px 0 150px 0;
+    float: right;
+    margin-right: 50px;
+}
+
+.bebe{
+    text-align: center;
+    font-size: 60px;
+    color:rgb(218, 36, 255);
+}
